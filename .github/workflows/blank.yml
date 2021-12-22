@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "verified": true,
+    "data": {
+      "orderId": 1234567,
+      "boxes": [
+        {
+          "deliveryStatusCode": "A",
+          "id": "123456",
+          "deliverCode": "ABC",
+          "startedAt": "2019-12-17 14:00:00",
+          "invoiceNumber": "123456",
+          "endedAt": "2019-12-17 18:00:00",
+          "edd": "2019-12-17",
+          "pdd": "2019-12-17"
+        }
+      ]
+    },
+    "failureList": null
+  },
+  {
+    "id": 2,
+    "verified": true,
+    "data": {
+      "orderId": 2,
+      "boxes": [
+        {
+          "deliveryStatusCode": "B",
+          "id": 123,
+          "deliverCode": "ABC",
+          "startedAt": "2019-12-17 14:00:00",
+          "invoiceNumber": "123456",
+          "endedAt": null,
+          "pdd": "2020-10-30"
+        },
+        {
+          "deliveryStatusCode": "A",
+          "id": "456",
+          "deliverCode": "ABC",
+          "startedAt": "2019-12-31 14:00:00",
+          "invoiceNumber": "123456",
+          "endedAt": "2020-01-10 13:00:00"
+        }
+      ]
+    },
+    "failureList": null
+  },
+  {
+    "id": 3,
+    "verified": true,
+    "data": {
+      "orderId": 1234567,
+      "boxes": [
+        {
+          "deliveryStatusCode": "E",
+          "id": "123456",
+          "deliverCode": "ABC",
+          "startedAt": "2019-12-31 14:00:00",
+          "invoiceNumber": "123456",
+          "endedAt": "2019-12-31 18:00:00",
+          "edd": "2019-12-31",
+          "pdd": null
+        },
+        {
+          "deliveryStatusCode": "B",
+          "id": "123456",
+          "deliverCode": "ABC",
+          "startedAt": "2019-12-31 14:00:00",
+          "invoiceNumber": "123456",
+          "endedAt": "2020-12-30 18:00:00",
+          "edd": "2020-12-30",
+          "pdd": null
+        },
+        {
+          "deliveryStatusCode": "C",
+          "id": "123456",
+          "deliverCode": "ABC",
+          "startedAt": "2019-12-31 14:00:00",
+          "invoiceNumber": "123456",
+          "endedAt": "2020-12-31 13:00:00",
+          "edd": "2020-12-31",
+          "pdd": ""
+        }
+      ]
+    },
+    "failureList": null
+  },
+  {
+    "id": 10,
+    "verified": true,
+    "data": {
+      "orderId": 1234567,
+      "boxes": []
+    },
+    "failureList": null
+  }
+]
