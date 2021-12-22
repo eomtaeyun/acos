@@ -26,7 +26,7 @@
       "failureList": null,
       "data": {
         "result": 1,
-        "emergencyTTS": "죄송합니다. 현재 전산장애로 서비스가 원할하지 않습니다."
+        "emergencyTTS": "기상악화로 배송이 지연되고 있습니다. 자세한 사항은 쿠팡닷컴에서 확인 부탁드립니다."
       },
       "verified": true
     },
@@ -35,7 +35,7 @@
       "failureList": null,
       "data": {
         "result": 0,
-        "emergencyTTS": "UP$0$99$A$07946$서울 양천구 111 목동 606-1$우리집$1147010200106060001017888$11"
+        "emergencyTTS": "UP$0$99$A$07946$서울 양천구      111        목동 606-1$우리집$1147010200106060001017888$11"
       },
       "verified": true
     }
