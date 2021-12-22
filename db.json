@@ -40,35 +40,6 @@
       "verified": true
     }
   ],
-    "IVRCustomerSsn": [
-    {
-      "id": "01030018822",
-      "failureList": null,
-      "data": {
-        "result": "000",
-        "custnm": "엄태연"
-      },
-      "verified": true
-    },
-    {
-      "id": "01012341111",
-      "failureList": null,
-      "data": {
-        "result": "A00",
-        "custnm": "홍길동"
-      },
-      "verified": true
-    }
-    {
-      "id": "01012342222",
-      "failureList": null,
-      "data": {
-        "result": "B00",
-        "custnm": "고객명"
-      },
-      "verified": true
-    }
-  ],
   "orders": [
     {
       "id": 1,
