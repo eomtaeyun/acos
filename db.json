@@ -3,28 +3,28 @@
     "jwt": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjRlZmJjMjAxLTZiYmItNGI5Ny04ZjgzLWVmOWE1Y2ZmYzMyZCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFjY291bnROYW1lIjoiQ3VzdG9tZXIgQWNjb3VudCIsImFjY291bnROdW1iZXIiOjEyMzR9LCJleHAiOjE2MTcwNzMzNjIsImlhdCI6MTYxNzAwNjE4NSwib3JnIjoiMjgyN2FiNTYtMTQxZi00MzRhLTkyMDYtZjEzOGM3ZWQwNTkzIn0.gy5NVnwYDb60bPFHHmkpNhjukqoUeDDFJHPy6DqHi5CnQSQvz-Au42OoVk39d1KQa5N0wQeQL0UeNPZOM-lzSWfAz4NKLhMTUjkY4E7EEqKxitU8HU-ySCwNat6FrZZskSeluUS9DwgYzY2Xvu6g-bmxt1x4MVlomrK04lzVa-e7P9Y5b45Amm53vvhyfGdkHYQEFGDDfCPsY4kclCMRocx69yHCZmaOi7KNgI-k3sqeoLrWFoJPgtRQA4_OTl8ECTnGiwAgFg1GU6PcN1SIhJWcHUxcIdg0R9ARJ3FfHWZespeZ0iplKK-iwQaJkjdc3LSlurjYIqRNSQoWoVPaEg"
   },
 	
-"members": [
+  "members": [
     {
       "telno": "01030018820",
       "verified": true,
       "data": {
-        "orderId": 1234567,
+        "orderId": 111,
         "boxes": [
           {
-		    "type": "VVIP",
-			"result_cd": "000",
-			"result_msg": "success",
-			"result_name": "엄태연0",
-			"result_age": 20,
-			"number": "01030018820",
-            "deliveryStatusCode": "A",
-            "id": "123456",
-            "deliverCode": "ABC",
-            "startedAt": "2019-12-17 14:00:00",
-            "invoiceNumber": "123456",
-            "endedAt": "2019-12-17 18:00:00",
-            "edd": "2019-12-17",
-            "pdd": "2019-12-17"
+		"type": "VVIP",
+		"result_cd": "000",
+		"result_msg": "success",
+		"result_name": "엄태연0",
+		"result_age": 20,
+		"number": "01030018820",
+		"deliveryStatusCode": "A",
+		"id": "123456",
+		"deliverCode": "ABC",
+		"startedAt": "2019-12-17 14:00:00",
+		"invoiceNumber": "123456",
+		"endedAt": "2019-12-17 18:00:00",
+		"edd": "2019-12-17",
+		"pdd": "2019-12-17"
           }
         ]
       },
@@ -34,22 +34,22 @@
       "telno": "01030018821",
       "verified": true,
       "data": {
-        "orderId": 2,
+        "orderId": 222,
         "boxes": [
           {
-			"type": "VIP",
-			"result_cd": "001",
-			"result_msg": "success",
-			"result_name": "엄태연1",
-			"result_age": 30,
-			"number": "01030018821",		  
-            "deliveryStatusCode": "B",
-            "id": "123",
-            "deliverCode": "ABC",
-            "startedAt": "2019-12-17 14:00:00",
-            "invoiceNumber": "123456",
-            "endedAt": null,
-            "pdd": "2020-10-30"
+		"type": "VIP",
+		"result_cd": "001",
+		"result_msg": "success",
+		"result_name": "엄태연1",
+		"result_age": 30,
+		"number": "01030018821",		  
+		"deliveryStatusCode": "B",
+		"id": "123",
+		"deliverCode": "ABC",
+		"startedAt": "2019-12-17 14:00:00",
+		"invoiceNumber": "123456",
+		"endedAt": null,
+		"pdd": "2020-10-30"
           }
         ]
       },
@@ -59,31 +59,30 @@
       "telno": "01030018822",
       "verified": true,
       "data": {
-        "orderId": 1234567,
+        "orderId": 333,
         "boxes": [
           {
-			"type": "MVP",
-			"result_cd": "400",
-			"result_msg": "success",
-			"result_name": "엄태연2",
-			"result_age": 40,
-			"number": "01030018822",		  
-            "deliveryStatusCode": "E",
-            "id": "1236",
-            "deliverCode": "ABC",
-            "startedAt": "2019-12-31 14:00:00",
-            "invoiceNumber": "123456",
-            "endedAt": "2019-12-31 18:00:00",
-            "edd": "2019-12-31",
-            "pdd": null
+		"type": "MVP",
+		"result_cd": "400",
+		"result_msg": "success",
+		"result_name": "엄태연2",
+		"result_age": 40,
+		"number": "01030018822",		  
+		"deliveryStatusCode": "E",
+		"id": "1236",
+		"deliverCode": "ABC",
+		"startedAt": "2019-12-31 14:00:00",
+		"invoiceNumber": "123456",
+		"endedAt": "2019-12-31 18:00:00",
+		"edd": "2019-12-31",
+		"pdd": null
           }
         ]
       },
       "failureList": null
     },
 ],
-
-  
+ 
   "emergency": [
     {
       "id": 1,
