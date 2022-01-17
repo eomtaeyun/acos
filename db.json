@@ -5,18 +5,42 @@
   "posts": [
     {
       "id": 1,
+      "telno": "01030018821",
+		  "type": "VVIP",
+			"result_cd": "000",
+			"result_msg": "success",
+			"result_name": "엄태연1",
+			"result_age": 20,      
       "title": "Post 1"
     },
     {
       "id": 2,
+      "telno": "01030018822",
+		  "type": "VVIP",
+			"result_cd": "000",
+			"result_msg": "success",
+			"result_name": "엄태연2",
+			"result_age": 20,        
       "title": "Post 2"
     },
     {
       "id": 3,
+      "telno": "01030018823",
+		  "type": "VVIP",
+			"result_cd": "000",
+			"result_msg": "success",
+			"result_name": "엄태연3",
+			"result_age": 20,        
       "title": "Post 3"
     },
     {
       "id": 4,
+      "telno": "01030018824",
+		  "type": "VVIP",
+			"result_cd": "000",
+			"result_msg": "success",
+			"result_name": "엄태연4",
+			"result_age": 20,        
       "title": "Post 4"
     }
   ],
