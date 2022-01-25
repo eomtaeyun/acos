@@ -42,7 +42,17 @@
 			"result_name": "엄태연4",
 			"result_age": 20,        
       "title": "Post 4"
-    }
+    },
+    {
+      "id": 999,
+      "telno": "01030018824",
+		  "type": "VVIP",
+			"result_cd": "999",
+			"result_msg": "success",
+			"result_name": "시스템장애",
+			"result_age": 20,        
+      "title": "Post 4"
+    }	  
   ],
   "emergency": [
     {
