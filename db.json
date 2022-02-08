@@ -4,54 +4,65 @@
   },
   "posts": [
     {
-      "id": 1,
-      "telno": "01030018821",
-		  "type": "VVIP",
-			"result_cd": "000",
-			"result_msg": "success",
-			"result_name": "엄태연1",
-			"result_age": 20,      
-      "title": "Post 1"
+	"id": 1,
+	"telno": "01030018821",
+	"type": "VVIP",
+	"result_cd": "000",
+	"result_msg": "success",
+	"result_name": "엄태연1",
+	"result_age": 20,      
+	"title": "Post 1"
     },
     {
-      "id": 2,
-      "telno": "01030018822",
-		  "type": "VVIP",
-			"result_cd": "000",
-			"result_msg": "success",
-			"result_name": "엄태연2",
-			"result_age": 20,        
-      "title": "Post 2"
+	"id": 2,
+	"telno": "01030018822",
+	"type": "VVIP",
+	"result_cd": "000",
+	"result_msg": "success",
+	"result_name": "엄태연2",
+	"result_age": 20,        
+	"title": "Post 2"
     },
     {
-      "id": 3,
-      "telno": "01030018823",
-		  "type": "VVIP",
-			"result_cd": "000",
-			"result_msg": "success",
-			"result_name": "엄태연3",
-			"result_age": 20,        
-      "title": "Post 3"
+	"id": 3,
+	"telno": "01030018823",
+	"type": "VVIP",
+	"result_cd": "000",
+	"result_msg": "success",
+	"result_name": "엄태연3",
+	"result_age": 20,        
+	"title": "Post 3"
     },
     {
-      "id": 4,
-      "telno": "01030018824",
-		  "type": "VVIP",
-			"result_cd": "000",
-			"result_msg": "success",
-			"result_name": "엄태연4",
-			"result_age": 20,        
-      "title": "Post 4"
+	"id": 4,
+	"telno": "01030018824",
+	"type": "VVIP",
+	"result_cd": "000",
+	"result_msg": "success",
+	"result_name": "엄태연4",
+	"result_age": 20,        
+	"title": "Post 4"
     },
     {
-      "id": 999,
-      "telno": "01030018824",
-		  "type": "VVIP",
-			"result_cd": "999",
-			"result_msg": "success",
-			"result_name": "시스템장애",
-			"result_age": 20,        
-      "title": "Post 4"
+	"id": 131,
+	"result_cd": "000",
+	"result_msg": "정상적으로 조회되었습니다.",
+	"result_name": "엄태연"
+    },	 	  
+    {
+	"id": 167,
+	"result_cd": "002",
+	"result_name": "서비스를 이용할 수 없습니다."
+    },	  
+    {
+	"id": 999,
+	"telno": "01030018824",
+	"type": "VVIP",
+	"result_cd": "999",
+	"result_msg": "success",
+	"result_name": "시스템장애",
+	"result_age": 20,        
+	"title": "Post 4"
     }	  
   ],
   "emergency": [
