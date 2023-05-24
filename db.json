@@ -19,7 +19,7 @@
 	"type": "success",
 	"result_cd": "002",
 	"result_msg": "실버회원",
-	"result_name": "강아지",
+	"result_name": "홍길동",
 	"result_age": 20,      
 	"title": "Post 2"
     },	  
@@ -29,7 +29,7 @@
 	"type": "success",
 	"result_cd": "003",
 	"result_msg": "골드회원",
-	"result_name": "고양이",
+	"result_name": "이순신",
 	"result_age": 30,    
 	"title": "Post 3"
     },	  
