@@ -4,6 +4,36 @@
   },
   "posts": [
     {
+	"id": 2001,
+	"telno": "01030018821",
+	"type": "일반회원",
+	"result_cd": "001,
+	"result_msg": "success",
+	"result_name": "엄태연",
+	"result_age": 10,     
+	"title": "Post 1"
+    },	  
+    {
+	"id": 2002,
+	"telno": "01030018822,
+	"type": "실버회원",
+	"result_cd": "002,
+	"result_msg": "success",
+	"result_name": "강아지",
+	"result_age": 20,      
+	"title": "Post 1"
+    },	  
+    {
+	"id": 2003,
+	"telno": "01030018823",
+	"type": "골드회원",
+	"result_cd": "003,
+	"result_msg": "success",
+	"result_name": "고양이",
+	"result_age": 30,    
+	"title": "Post 1"
+    },	  
+    {
 	"id": 1,
 	"telno": "01030018821",
 	"type": "VVIP",
