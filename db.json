@@ -5,17 +5,17 @@
   "posts": [
     {
 	"id": 2001,
-	"telno": "01030018821",
+	"telno": "01012348821",
 	"type": "success",
 	"result_cd": "001",
 	"result_msg": "일반회원",
-	"result_name": "엄태연",
+	"result_name": "이순정",
 	"result_age": 10,     
 	"title": "Post 1"
     },	  
     {
 	"id": 2002,
-	"telno": "01030018822",
+	"telno": "01023458822",
 	"type": "success",
 	"result_cd": "002",
 	"result_msg": "실버회원",
@@ -25,7 +25,7 @@
     },	  
     {
 	"id": 2003,
-	"telno": "01030018823",
+	"telno": "01023238823",
 	"type": "success",
 	"result_cd": "003",
 	"result_msg": "골드회원",
@@ -35,41 +35,41 @@
     },	  
     {
 	"id": 1,
-	"telno": "01030018821",
+	"telno": "010435568821",
 	"type": "VVIP",
 	"result_cd": "000",
 	"result_msg": "success",
-	"result_name": "엄태연1",
+	"result_name": "가나다",
 	"result_age": 20,      
 	"title": "Post 1"
     },
     {
 	"id": 2,
-	"telno": "01030018822",
+	"telno": "01021218822",
 	"type": "VVIP",
 	"result_cd": "000",
 	"result_msg": "success",
-	"result_name": "엄태연2",
+	"result_name": "나다다",
 	"result_age": 20,        
 	"title": "Post 2"
     },
     {
 	"id": 3,
-	"telno": "01030018823",
+	"telno": "01011118823",
 	"type": "VVIP",
 	"result_cd": "000",
 	"result_msg": "success",
-	"result_name": "엄태연3",
+	"result_name": "김박이",
 	"result_age": 20,        
 	"title": "Post 3"
     },
     {
 	"id": 4,
-	"telno": "01030018824",
+	"telno": "01077688824",
 	"type": "VVIP",
 	"result_cd": "000",
 	"result_msg": "success",
-	"result_name": "엄태연44444444444",
+	"result_name": "오메라",
 	"result_age": 20,        
 	"title": "Post 4"
     },
@@ -77,7 +77,7 @@
 	"id": 131,
 	"result_cd": "000",
 	"result_msg": "정상적으로 조회되었습니다.",
-	"result_name": "엄태연"
+	"result_name": "가가가"
     },	 	  
     {
 	"id": 167,
@@ -86,7 +86,7 @@
     },	  	  
     {
 	"id": 144,
-	"telno": "01030018824",
+	"telno": "01010098824",
 	"type": "VVIP",
 	"result_cd": "000",
 	"result_msg": "success",
@@ -148,7 +148,7 @@
 	  
     {
 	"id": 999,
-	"telno": "01030018824",
+	"telno": "01056998824",
 	"type": "VVIP",
 	"result_cd": "999",
 	"result_msg": "success",
